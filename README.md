@@ -111,7 +111,8 @@ If you find this work or code is helpful in your research, please cite:
 ## 4. Contributing
 Thanks to the following work for improving our project：
 - torch-cam: [https://github.com/frgfm/torch-cam](https://github.com/frgfm/torch-cam)
-- VANet: [https://github.com/1024803482/Viewpoint-Aware-Network]
+- RANet: [https://github.com/jeong-tae/RACNN-pytorch](https://github.com/jeong-tae/RACNN-pytorch)
+- VANet: [https://github.com/1024803482/Viewpoint-Aware-Network](VANet)
 - albumentations: [https://github.com/albumentations-team/albumentations](albumentations)
 
 ## 5. License
