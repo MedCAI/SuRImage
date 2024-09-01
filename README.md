@@ -4,9 +4,9 @@ The official implementation of [SuRImage](https://ascopubs.org/doi/abs/10.1200/J
 ### 1.1 Background
 Intraoperative diagnosis is crucial for selecting segmentectomy or lobectomy in clinical stage IA lung adenocarcinoma (LUAD). Current pathological examination during surgery suffers from chanllenges:
 
-(i) The long time for frozen section analysis;
+(i) The long time for frozen section analysis.
 
-(ii) The ambiguous and inaccurate report through patholigcal examination
+(ii) The ambiguous and inaccurate report through patholigcal examination.
 
 To overcome these issues, we propose a novel framework named SuRImage that assits intraoperative diagnosis based on surgical resection images, provides providing insights into the macroscopic morphological features that indicate LUAD pathological invasiveness.
 
