@@ -96,22 +96,12 @@ If you find this work or code is helpful in your research, please cite:
   year={2024},
   publisher={American Society of Clinical Oncology}
 }
-
-@article{cai2024know,
-  title={Know your orientation: A viewpoint-aware framework for polyp segmentation},
-  author={Cai, Linghan and Chen, Lijiang and Huang, Jianhao and Wang, Yifeng and Zhang, Yongbing},
-  journal={Medical Image Analysis},
-  volume={97},
-  pages={103288},
-  year={2024},
-  publisher={Elsevier}
-}
 ```
 
 ## 4. Contributing
 Thanks to the following work for improving our project：
 - torch-cam: [https://github.com/frgfm/torch-cam](https://github.com/frgfm/torch-cam)
-- RANet: [https://github.com/jeong-tae/RACNN-pytorch](https://github.com/jeong-tae/RACNN-pytorch)
+- RACNN: [https://github.com/jeong-tae/RACNN-pytorch](https://github.com/jeong-tae/RACNN-pytorch)
 - VANet: [https://github.com/1024803482/Viewpoint-Aware-Network](VANet)
 - albumentations: [https://github.com/albumentations-team/albumentations](albumentations)
 
