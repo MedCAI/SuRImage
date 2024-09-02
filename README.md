@@ -10,7 +10,7 @@ Intraoperative diagnosis is crucial for selecting segmentectomy or lobectomy in 
 
 To overcome these issues, we propose a novel framework named SuRImage that assits intraoperative diagnosis based on surgical resection images, provides providing insights into the macroscopic morphological features that indicate LUAD pathological invasiveness.
 
-### 1.2. Framework
+### 1.2 Framework
 The main novelty of SuRImage is shown in subsequent Figure 1. Motivated by [Fine-Grained Learning](https://openaccess.thecvf.com/content_cvpr_2017/html/Fu_Look_Closer_to_CVPR_2017_paper.html), we propose a coarse-to-fine grained classification model for completing three tasks in assisting LUAD diagnosis, namely, IAC diagnosis, IAC identification, and IAC classification.
 <p align="center">
     <img src="./images/Coarse-to-Fine Grained.png"/ width="800"> <br />
