@@ -2,7 +2,7 @@
 
 The official implementation of [SuRImage](https://ascopubs.org/doi/abs/10.1200/JCO.2024.42.16_suppl.1563).
 
-🎉 The work has been accepted by _The Lancet Digital Health 2026_
+🎉 The work has been accepted by _**The Lancet Digital Health** 2026_
 
 ## 1. Introduction
 ### 1.1 Background
