@@ -1,5 +1,8 @@
 # SuRImage: Deep learning model for pathological invasiveness prediction based on surgical resection images
-The official implementation of [SuRImage](https://ascopubs.org/doi/abs/10.1200/JCO.2024.42.16_suppl.1563) (Pending).
+
+The official implementation of [SuRImage](https://ascopubs.org/doi/abs/10.1200/JCO.2024.42.16_suppl.1563).
+🎉 The work has been accepted by _The Lancet Digital Health 2026_
+
 ## 1. Introduction
 ### 1.1 Background
 Intraoperative diagnosis is crucial for selecting segmentectomy or lobectomy in clinical stage IA lung adenocarcinoma (LUAD). Current pathological examination during surgery suffers from chanllenges:
@@ -95,6 +98,14 @@ If you find this work or code is helpful in your research, please cite:
   author={Yao, Lintong and Zhou, HaiYu and Cai, Linghan and Li, Qiaxuan and Xie, Daipeng and Lin, Hongwei},
   year={2024},
   publisher={American Society of Clinical Oncology}
+}
+
+@article{yao2026deep,
+  title={Deep Learning Model for Pathological Invasiveness Prediction Based on Surgical Resection Images Using Smartphone in Clinical Stage IA Lung Adenocarcinoma (SuRImage): a Prospective, Multicentric Diagnostic Study},
+  author={Yao, Lintong, and Cai, Linghan, et al.},
+  journal={The Lancet Digital Health},
+  year={2026},
+  publisher={Elsevier}
 }
 ```
 
