@@ -90,7 +90,7 @@ SuRImage achieves the encouraging performance on three tasks, improving the diag
     </em>
 </p>
 
-## 3. Citation (will be updated soon)
+## 3. Citation
 If you find this work or code is helpful in your research, please cite:
 
 ```
