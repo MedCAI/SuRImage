@@ -1,4 +1,4 @@
-# SuRImage: Deep learning model for pathological invasiveness prediction based on surgical resection images
+# [The Lancet Digital Health] SuRImage: Deep learning model for pathological invasiveness prediction based on surgical resection images
 
 The official implementation of [SuRImage](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00147-5/fulltext?rss=yes).
 
